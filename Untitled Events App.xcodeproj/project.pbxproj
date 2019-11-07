@@ -13,6 +13,18 @@
 		A10246A72370B168009DF0E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A10246A62370B168009DF0E0 /* Assets.xcassets */; };
 		A10246AA2370B168009DF0E0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A10246A92370B168009DF0E0 /* Preview Assets.xcassets */; };
 		A10246AD2370B168009DF0E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A10246AB2370B168009DF0E0 /* LaunchScreen.storyboard */; };
+		A10246B62370B1B2009DF0E0 /* meetupGroups.json in Resources */ = {isa = PBXBuildFile; fileRef = A10246B52370B1B2009DF0E0 /* meetupGroups.json */; };
+		A10246DC2370BB5B009DF0E0 /* Group.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10246DB2370BB5B009DF0E0 /* Group.swift */; };
+		A10246DE2370BB75009DF0E0 /* GroupRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10246DD2370BB75009DF0E0 /* GroupRow.swift */; };
+		A10246E02370BB87009DF0E0 /* GroupsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10246DF2370BB87009DF0E0 /* GroupsView.swift */; };
+		A10246E22370BB95009DF0E0 /* GroupsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10246E12370BB95009DF0E0 /* GroupsList.swift */; };
+		A10246E42370C006009DF0E0 /* EventRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10246E32370C006009DF0E0 /* EventRow.swift */; };
+		A10246E62370C00E009DF0E0 /* EventsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10246E52370C00E009DF0E0 /* EventsList.swift */; };
+		A10246E82370C02D009DF0E0 /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10246E72370C02D009DF0E0 /* Event.swift */; };
+		A10246EA2370C041009DF0E0 /* EventsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10246E92370C041009DF0E0 /* EventsView.swift */; };
+		A10246EC2370C605009DF0E0 /* GroupDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10246EB2370C605009DF0E0 /* GroupDetail.swift */; };
+		A10246EE2370C66A009DF0E0 /* EventDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10246ED2370C66A009DF0E0 /* EventDetail.swift */; };
+		A1EF01862373F93A00509700 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1EF01852373F93A00509700 /* Data.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +36,19 @@
 		A10246A92370B168009DF0E0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A10246AC2370B168009DF0E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A10246AE2370B168009DF0E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A10246B52370B1B2009DF0E0 /* meetupGroups.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = meetupGroups.json; sourceTree = "<group>"; };
+		A10246DB2370BB5B009DF0E0 /* Group.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group.swift; sourceTree = "<group>"; };
+		A10246DD2370BB75009DF0E0 /* GroupRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupRow.swift; sourceTree = "<group>"; };
+		A10246DF2370BB87009DF0E0 /* GroupsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupsView.swift; sourceTree = "<group>"; };
+		A10246E12370BB95009DF0E0 /* GroupsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupsList.swift; sourceTree = "<group>"; };
+		A10246E32370C006009DF0E0 /* EventRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventRow.swift; sourceTree = "<group>"; };
+		A10246E52370C00E009DF0E0 /* EventsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventsList.swift; sourceTree = "<group>"; };
+		A10246E72370C02D009DF0E0 /* Event.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
+		A10246E92370C041009DF0E0 /* EventsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventsView.swift; sourceTree = "<group>"; };
+		A10246EB2370C605009DF0E0 /* GroupDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupDetail.swift; sourceTree = "<group>"; };
+		A10246ED2370C66A009DF0E0 /* EventDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventDetail.swift; sourceTree = "<group>"; };
+		A10246EF2370C967009DF0E0 /* Untitled Events App.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Untitled Events App.entitlements"; sourceTree = "<group>"; };
+		A1EF01852373F93A00509700 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,13 +81,19 @@
 		A102469F2370B167009DF0E0 /* Untitled Events App */ = {
 			isa = PBXGroup;
 			children = (
-				A10246A02370B167009DF0E0 /* AppDelegate.swift */,
-				A10246A22370B167009DF0E0 /* SceneDelegate.swift */,
-				A10246A42370B167009DF0E0 /* ContentView.swift */,
-				A10246A62370B168009DF0E0 /* Assets.xcassets */,
-				A10246AB2370B168009DF0E0 /* LaunchScreen.storyboard */,
+				A10246EF2370C967009DF0E0 /* Untitled Events App.entitlements */,
 				A10246AE2370B168009DF0E0 /* Info.plist */,
+				A10246A02370B167009DF0E0 /* AppDelegate.swift */,
+				A10246A42370B167009DF0E0 /* ContentView.swift */,
+				A1EF01852373F93A00509700 /* Data.swift */,
+				A10246A22370B167009DF0E0 /* SceneDelegate.swift */,
+				A10246A62370B168009DF0E0 /* Assets.xcassets */,
+				A1EF01872373F9E600509700 /* Events */,
+				A1EF01892373FA0600509700 /* Groups */,
+				A10246AB2370B168009DF0E0 /* LaunchScreen.storyboard */,
+				A1EF01882373F9F600509700 /* Models */,
 				A10246A82370B168009DF0E0 /* Preview Content */,
+				A10246B42370B199009DF0E0 /* Resources */,
 			);
 			path = "Untitled Events App";
 			sourceTree = "<group>";
@@ -73,6 +104,45 @@
 				A10246A92370B168009DF0E0 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A10246B42370B199009DF0E0 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A10246B52370B1B2009DF0E0 /* meetupGroups.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		A1EF01872373F9E600509700 /* Events */ = {
+			isa = PBXGroup;
+			children = (
+				A10246ED2370C66A009DF0E0 /* EventDetail.swift */,
+				A10246E32370C006009DF0E0 /* EventRow.swift */,
+				A10246E52370C00E009DF0E0 /* EventsList.swift */,
+				A10246E92370C041009DF0E0 /* EventsView.swift */,
+			);
+			path = Events;
+			sourceTree = "<group>";
+		};
+		A1EF01882373F9F600509700 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				A10246E72370C02D009DF0E0 /* Event.swift */,
+				A10246DB2370BB5B009DF0E0 /* Group.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		A1EF01892373FA0600509700 /* Groups */ = {
+			isa = PBXGroup;
+			children = (
+				A10246EB2370C605009DF0E0 /* GroupDetail.swift */,
+				A10246DD2370BB75009DF0E0 /* GroupRow.swift */,
+				A10246E12370BB95009DF0E0 /* GroupsList.swift */,
+				A10246DF2370BB87009DF0E0 /* GroupsView.swift */,
+			);
+			path = Groups;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -134,6 +204,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A10246AD2370B168009DF0E0 /* LaunchScreen.storyboard in Resources */,
+				A10246B62370B1B2009DF0E0 /* meetupGroups.json in Resources */,
 				A10246AA2370B168009DF0E0 /* Preview Assets.xcassets in Resources */,
 				A10246A72370B168009DF0E0 /* Assets.xcassets in Resources */,
 			);
@@ -146,9 +217,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A10246E02370BB87009DF0E0 /* GroupsView.swift in Sources */,
+				A10246EE2370C66A009DF0E0 /* EventDetail.swift in Sources */,
+				A10246E22370BB95009DF0E0 /* GroupsList.swift in Sources */,
+				A10246DE2370BB75009DF0E0 /* GroupRow.swift in Sources */,
 				A10246A12370B167009DF0E0 /* AppDelegate.swift in Sources */,
+				A10246EC2370C605009DF0E0 /* GroupDetail.swift in Sources */,
+				A10246E82370C02D009DF0E0 /* Event.swift in Sources */,
+				A1EF01862373F93A00509700 /* Data.swift in Sources */,
 				A10246A32370B167009DF0E0 /* SceneDelegate.swift in Sources */,
 				A10246A52370B167009DF0E0 /* ContentView.swift in Sources */,
+				A10246DC2370BB5B009DF0E0 /* Group.swift in Sources */,
+				A10246E62370C00E009DF0E0 /* EventsList.swift in Sources */,
+				A10246EA2370C041009DF0E0 /* EventsView.swift in Sources */,
+				A10246E42370C006009DF0E0 /* EventRow.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,7 +366,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "Untitled Events App/Untitled Events App.entitlements";
 				CODE_SIGN_STYLE = Automatic;
+				DERIVE_MACCATALYST_PRODUCT_BUNDLE_IDENTIFIER = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"Untitled Events App/Preview Content\"";
 				DEVELOPMENT_TEAM = F4TL4LM96Q;
 				ENABLE_PREVIEWS = YES;
@@ -295,6 +379,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "io.github.louistsaitszho.Untitled-Events-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -304,7 +389,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "Untitled Events App/Untitled Events App.entitlements";
 				CODE_SIGN_STYLE = Automatic;
+				DERIVE_MACCATALYST_PRODUCT_BUNDLE_IDENTIFIER = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"Untitled Events App/Preview Content\"";
 				DEVELOPMENT_TEAM = F4TL4LM96Q;
 				ENABLE_PREVIEWS = YES;
@@ -315,6 +402,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "io.github.louistsaitszho.Untitled-Events-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

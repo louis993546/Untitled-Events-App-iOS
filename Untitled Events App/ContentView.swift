@@ -10,12 +10,29 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
+        TabView {
+            GroupsView()
+                .tabItem {
+                    Image(systemName: "person.3.fill")
+                    Text("Groups")
+            }
+            EventsView()
+                .tabItem {
+                    Image(systemName: "calendar")
+                    Text("Events")
+            }
+            Text("Settings")
+                .tabItem {
+                    Image(systemName: "gear")
+                    Text("Settings")
+            }
+        }
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
+            .previewDevice(PreviewDevice(rawValue: "iPhone SE"))
     }
 }

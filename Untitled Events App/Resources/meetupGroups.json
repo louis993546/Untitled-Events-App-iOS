@@ -1,0 +1,2419 @@
+{
+
+    "0": {
+        "score": 0.9832899570465088,
+        "id": 20433058,
+        "name": "Berlin Singles Meetup (3100+ members)",
+        "status": "active",
+        "link": "https://www.meetup.com/berlin-international-singles/",
+        "urlname": "berlin-international-singles",
+        "description": "<p>Berlin is a difficult place to meet internationally minded singles especially when you are of a certain age and intellectually minded. This is a group for singles who have traveled widely, are broad minded and internationally oriented and secular in their approach to the world. Join us to make the world a better place and promote better understanding.</p>",
+        "created": 1474053732000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 4005,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 203523083,
+            "name": "Dan Raj",
+            "bio": "",
+            "photo": {
+                "id": 256074422,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/d/4/9/6/highres_256074422.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/d/4/9/6/member_256074422.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/d/4/9/6/thumb_256074422.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Members",
+        "group_photo": {
+            "id": 455606676,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/6/8/3/4/highres_455606676.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/6/8/3/4/600_455606676.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/6/8/3/4/thumb_455606676.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 455606676,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/6/8/3/4/highres_455606676.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/6/8/3/4/600_455606676.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/6/8/3/4/thumb_455606676.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "next_event": {
+            "id": "266040150",
+            "name": "Make new friends - Ein Treffen für Frauen und Männer! (25-45)(FREE Drink/Hosted)",
+            "yes_rsvp_count": 25,
+            "time": 1573840800000,
+            "utc_offset": 3600000
+        },
+        "category": {
+            "id": 31,
+            "name": "Socializing",
+            "shortname": "socializing",
+            "sort_name": "Socializing"
+        },
+        "meta_category": {
+            "id": 272,
+            "shortname": "social",
+            "name": "Social",
+            "sort_name": "Social",
+            "photo": {
+                "id": 450131947,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/b/highres_450131947.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/b/600_450131947.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/b/thumb_450131947.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                31
+            ]
+        }
+    },
+    "1": {
+        "score": 0.9608978033065796,
+        "id": 23599825,
+        "name": "Software Engineer Bouldering in Berlin [Japanese Culture]",
+        "status": "active",
+        "link": "https://www.meetup.com/Software-Engineer-Bouldering-in-Berlin-Japanese-Culture/",
+        "urlname": "Software-Engineer-Bouldering-in-Berlin-Japanese-Culture",
+        "description": "<p>Hello! I'm Yuta Miyama, a Japanese software engineer who's working at a startup in Berlin. <br>Recently I've established a habit of bouldering twice a week (Wednesday night, Sunday morning), at a great bouldering center Berta Block (<a href=\"http://www.bertablock.de/\" class=\"linkified\">http://www.bertablock.de/</a>).</p>\n<p>Occasionally I climb with my friends, so anybody interested in one of these keywords in the meetup title, please join the group!</p>",
+        "created": 1493975722000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 395,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 70245462,
+            "name": "Yuta Miyama",
+            "bio": "",
+            "photo": {
+                "id": 82860292,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/1/2/4/member_82860292.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/1/2/4/thumb_82860292.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Members",
+        "group_photo": {
+            "id": 465448128,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/6/d/e/0/highres_465448128.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/6/d/e/0/600_465448128.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/6/d/e/0/thumb_465448128.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 465448128,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/6/d/e/0/highres_465448128.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/6/d/e/0/600_465448128.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/6/d/e/0/thumb_465448128.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 16,
+            "name": "Language & Ethnic Identity",
+            "shortname": "language",
+            "sort_name": "Language & Ethnic Identity"
+        },
+        "meta_category": {
+            "id": 212,
+            "shortname": "language",
+            "name": "Language & Culture",
+            "sort_name": "Language & Culture",
+            "photo": {
+                "id": 450131939,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                16
+            ]
+        }
+    },
+    "2": {
+        "score": 0.9989935755729675,
+        "id": 31506409,
+        "name": "RPA Robotic Process Automation Developers Berlin",
+        "status": "active",
+        "link": "https://www.meetup.com/RPA-Robotics-Developer-Berlin/",
+        "urlname": "RPA-Robotics-Developer-Berlin",
+        "description": "<p>RPA is process automation with software robots to use artificial intelligence (AI) driven programs to simulate human interaction with user interfaces of software systems. <br>In this group, we want to enable developers from Berlin to exchange experiences for UIPath, Blue Prism, Automation Anywhere, Abbyy FlexiCapture, Python and other tools for robot-controlled process automation. To achieve this, we will organize a monthy Meetup where own Snippets, Activities or Solutions can be presented. The language of communication is english.</p>",
+        "created": 1553849568000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 230,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 189722748,
+            "name": "moenk",
+            "bio": "Geo-Spatial Database Engineer\nGeoinformation Science Lab, Geography Department\nHumboldt-Universität zu Berlin",
+            "photo": {
+                "id": 247763015,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/5/9/e/7/highres_247763015.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/5/9/e/7/member_247763015.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/5/9/e/7/thumb_247763015.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Automators",
+        "key_photo": {
+            "id": 479917641,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/9/3/0/9/highres_479917641.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/9/3/0/9/600_479917641.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/9/3/0/9/thumb_479917641.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "next_event": {
+            "id": "264690620",
+            "name": "RPA Robotic Process Automation Developers Berlin @ Mister Spex",
+            "yes_rsvp_count": 44,
+            "time": 1573493400000,
+            "utc_offset": 3600000
+        },
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    },
+    "3": {
+        "score": 0.9831548929214478,
+        "id": 18407590,
+        "name": "Java Usergroup Berlin-Brandenburg",
+        "status": "active",
+        "link": "https://www.meetup.com/jug-bb/",
+        "urlname": "jug-bb",
+        "description": "<p>Die Java Usergroup Berlin-Brandenburg fördert in der Region Berlin-Brandenburg aktiv den Wissens- und Erfahrungsaustausch zwischen allen an Java und dem rund um Java und die Java Virtual Machine existierendem Ökosystem interessierten Menschen und Organisationen. Um den hierfür notwendigen Austausch sicherzustellen, organisieren wir regelmäßig Vorträge und leiten Informationen zu weiteren in der Region stattfindenden Veranstaltungen und Konferenzen an unsere Mitglieder weiter.&nbsp;</p>\n<p>Im Netz sind wir unter <a href=\"http://www.jug-berlin-brandenburg.de\" class=\"linkified\">http://www.jug-berlin-brandenburg.de</a> zuhause. <br></p>\n<p>Auf Twitter findet man uns unter <a href=\"http://twitter.com/jugbb\">@jugbb</a></p>",
+        "created": 1422957097000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 2370,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 36441412,
+            "name": "Joerg M.",
+            "bio": "",
+            "photo": {
+                "id": 154894352,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/8/6/3/0/highres_154894352.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/8/6/3/0/member_154894352.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/8/6/3/0/thumb_154894352.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Javaianer",
+        "group_photo": {
+            "id": 476546909,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/6/9/1/d/highres_476546909.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/6/9/1/d/600_476546909.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/6/9/1/d/thumb_476546909.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 446108420,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/2/0/e/4/highres_446108420.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/2/0/e/4/600_446108420.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/2/0/e/4/thumb_446108420.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "next_event": {
+            "id": "qjxkbryzpbhb",
+            "name": "Monatlicher Stammtisch der JUG Berlin-Brandenburg",
+            "yes_rsvp_count": 4,
+            "time": 1572975000000,
+            "utc_offset": 3600000
+        },
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    },
+    "4": {
+        "score": 0.9735808372497559,
+        "id": 29613865,
+        "name": "La Piazza - German-Italian Tandem",
+        "status": "active",
+        "link": "https://www.meetup.com/La-Piazza-German-Italian-Tandem/",
+        "urlname": "La-Piazza-German-Italian-Tandem",
+        "description": "<p>Do you speak Italian and are learning German? Or do you speak German and are learning Italian? Or are you even learning both languages? Then welcome to this group. We want to create a forum where you can easily meet with people interested in German/Italian conversation exchange, to talk, to help each other improve the language you are learning, share language-learning experiences, and generally have fun and make new friendships. No matter what level you have in German/Italian, everybody is welcome to join us. &lt;br&gt;</p> \n<p>We will meet regularly, e.g. on Sunday afternoons for coffee and talks, brunch, perhaps day trips etc. Please feel free to make suggestions on what kind of events you would be interested to attend (discussion about specific topics, reading a book together, just to socialize, hanging out together, going to the movies, dinners...).</p> \n<p>Looking forward to seeing you! :) &lt;br&gt;</p>",
+        "created": 1535107356000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "approval",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 418,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 201328707,
+            "name": "Daniela",
+            "bio": "",
+            "photo": {
+                "id": 281064646,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/6/0/4/6/highres_281064646.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/6/0/4/6/member_281064646.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/6/0/4/6/thumb_281064646.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Mitglieder",
+        "key_photo": {
+            "id": 474341302,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/1/5/6/highres_474341302.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/1/5/6/600_474341302.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/1/5/6/thumb_474341302.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 16,
+            "name": "Language & Ethnic Identity",
+            "shortname": "language",
+            "sort_name": "Language & Ethnic Identity"
+        },
+        "meta_category": {
+            "id": 212,
+            "shortname": "language",
+            "name": "Language & Culture",
+            "sort_name": "Language & Culture",
+            "photo": {
+                "id": 450131939,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                16
+            ]
+        }
+    },
+    "5": {
+        "score": 0.9551299214363098,
+        "id": 20018955,
+        "name": "Elasticsearch Berlin",
+        "status": "active",
+        "link": "https://www.meetup.com/Elasticsearch-Berlin/",
+        "urlname": "Elasticsearch-Berlin",
+        "description": "<p>This is a group for anyone interested in sharing knowledge about Search topics, Text analysis, Scoring functions, Distributed systems, etc.. It's all about how to get the most out of Elasticsearch.</p>\n<p> <br></p>",
+        "created": 1464729806000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 1377,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 155319272,
+            "name": "Alæ Elhadba",
+            "bio": "",
+            "photo": {
+                "id": 242675801,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/8/b/d/9/highres_242675801.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/8/b/d/9/member_242675801.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/8/b/d/9/thumb_242675801.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Members",
+        "group_photo": {
+            "id": 455007114,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/6/9/e/a/highres_455007114.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/6/9/e/a/600_455007114.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/6/9/e/a/thumb_455007114.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 478845279,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/b/0/d/f/highres_478845279.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/b/0/d/f/600_478845279.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/b/0/d/f/thumb_478845279.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    },
+    "6": {
+        "score": 0.9916450381278992,
+        "id": 11094792,
+        "name": "Docker Berlin",
+        "status": "active",
+        "link": "https://www.meetup.com/Docker-Berlin/",
+        "urlname": "Docker-Berlin",
+        "description": "<p>Learn, Collaborate &amp; Dockerize! Meet other developers and ops engineers in your community that are using and learning about Docker. Docker is an open platform that helps you build, ship and run applications anytime and anywhere. Developers use Docker to modify code and to streamline application development, while operations gain support to quickly and flexibly respond to their changing needs. Docker ensures agility, portability and control for all your distributed apps.&nbsp;</p>\n<p>Docker is also the main sponsor of the Moby Project, an open framework to assemble specialized container systems without reinventing the wheel. More information available at <a href=\"http://mobyproject.org/\" class=\"linkified\">http://mobyproject.org/</a>&nbsp;</p>\n<p>Learn more about the Docker Community at <a href=\"https://www.docker.com/docker-community\" class=\"linkified\">https://www.docker.com/docker-community</a></p>",
+        "created": 1384379835000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 2782,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 114766932,
+            "name": "Moby Dock",
+            "bio": "",
+            "photo": {
+                "id": 268060668,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/9/e/d/c/highres_268060668.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/9/e/d/c/member_268060668.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/9/e/d/c/thumb_268060668.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Dockers",
+        "group_photo": {
+            "id": 463409707,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/7/4/0/b/highres_463409707.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/7/4/0/b/600_463409707.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/7/4/0/b/thumb_463409707.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 476859344,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/9/9/b/0/highres_476859344.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/9/9/b/0/600_476859344.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/9/9/b/0/thumb_476859344.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        },
+        "pro_network": {
+            "name": "Docker User Group",
+            "urlname": "docker",
+            "number_of_groups": 202,
+            "network_url": "https://www.meetup.com/pro/docker/"
+        }
+    },
+    "7": {
+        "score": 0.974230170249939,
+        "id": 32202132,
+        "name": "GermanLanguage experiments and learningTogether",
+        "status": "grace",
+        "link": "https://www.meetup.com/GermanLanguage-experiments-and-learningTogether/",
+        "urlname": "GermanLanguage-experiments-and-learningTogether",
+        "description": "<p>I'd like to work on German language in ways of sharing experience in learning this language or in comparison with learning other languages</p>\n<p>For the learning part, I would like to trigger creative ways and to be inspired by you to work on fun and constructive ways to enter the culture and space of German language</p>\n<p>I am a German language teacher who likes to do that anyways:) Here via meetup, I'd like to expand the space I can work with this language in ways of sharing and teamwork with you guys</p>\n<p>I got a few ideas already <br>I am excited to hear yours!</p>",
+        "created": 1560869772000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 92,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 217103666,
+            "name": "Michel Linke",
+            "bio": "Hi! I am Michel, 32, live in Berlin, and often I teach German language to different people. Besides that I also live in Berlin being very interested in spirituality and higher sense of our societies, the people all around, the world and the universe.",
+            "photo": {
+                "id": 286143605,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/e/1/5/highres_286143605.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/e/1/5/member_286143605.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/e/1/5/thumb_286143605.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Members",
+        "group_photo": {
+            "id": 482366752,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/6/8/8/0/highres_482366752.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/6/8/8/0/600_482366752.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/6/8/8/0/thumb_482366752.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 485614108,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/8/5/3/c/highres_485614108.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/8/5/3/c/600_485614108.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/8/5/3/c/thumb_485614108.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 16,
+            "name": "Language & Ethnic Identity",
+            "shortname": "language",
+            "sort_name": "Language & Ethnic Identity"
+        },
+        "meta_category": {
+            "id": 212,
+            "shortname": "language",
+            "name": "Language & Culture",
+            "sort_name": "Language & Culture",
+            "photo": {
+                "id": 450131939,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                16
+            ]
+        }
+    },
+    "8": {
+        "score": 0.9624041318893433,
+        "id": 28909187,
+        "name": "IT Above the Clouds",
+        "status": "active",
+        "link": "https://www.meetup.com/IT-Above-the-Clouds/",
+        "urlname": "IT-Above-the-Clouds",
+        "description": "<p><span>Gemeinsam innovative Technologien, Cloud Services und Best Practices in der IT besprechen - das ist das Ziel der “IT Above the Clouds” - Cloudwürdig Eventreihe. Diese Gruppe richtet sich an alle CTOs, IT-Admins, Softwareentwickler oder Software interessierte, die sich über neue Technologien zum Einsatz in Ihrem Unternehmen austauschen möchten.</span> <br></p>\n<p>Wir treffen uns dazu alle zwei Monate immer am zweiten Mittwoch des Monats in unterschiedlichen Locations,&nbsp;<span>sodass sich langfristig ein fester Kreis von Experten zum Austauschen und Lernen bildet (Achtung: Kleine Ausnahme ist der nächster Termin für IT Above the Clouds#2 am 21.8.2018. Die nächsten Termine danach wieder am 2. Mittwoch: 10.10.2018, 12.12.2018, 13.2.2019, ...).</span><br><span><span>Der Veranstaltungsort </span>variiert<span>&nbsp;und wird in den jeweiligen Events bekannt gegeben.&nbsp;</span></span><span>Als Veranstalter stellen wir ein Kontingent für kostenlose Getränke zur Verfügung - es zahlt sich also aus früh zu kommen ;)</span></p>\n<p><span>Seid dabei, wenn die Zukunft der IT geplant wird und werdet Teil der Cloudwürdig “IT Above the Clouds” - Community.</span></p>\n<p>Wir freuen uns über zahlreiches Erscheinen und angeregte Gespräche.</p>\n<p>Bis bald und liebe Grüße, <br>Euer Cloudwürdig Team</p>",
+        "created": 1529578697000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 317,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 257172568,
+            "name": "Cloudwürdig GmbH",
+            "bio": "",
+            "photo": {
+                "id": 278510716,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/c/6/1/c/highres_278510716.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/c/6/1/c/member_278510716.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/c/6/1/c/thumb_278510716.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "IT Specialists",
+        "key_photo": {
+            "id": 473538116,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/4/6/c/4/highres_473538116.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/4/6/c/4/600_473538116.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/4/6/c/4/thumb_473538116.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    },
+    "9": {
+        "score": 0.9714449644088745,
+        "id": 21997258,
+        "name": "German-English language exchange in Schöneberg/Steglitz area",
+        "status": "active",
+        "link": "https://www.meetup.com/Berlin-Language-Culture-Meetup/",
+        "urlname": "Berlin-Language-Culture-Meetup",
+        "description": "<p>Come and join us for English-German language exchange events in and around the south west of Berlin (mostly between Schöneberg and Steglitz). The group is for all levels of German or English speakers and for those people who just really want to practise speaking English or German, no matter what your mother tongue is!&nbsp;</p>\n<p>We will aim to meet in quiet places, so that we can get the most out of each others language knowledge. We don´t offer lessons. We just sit together in a relaxed atmosphere, eat and/or drink something and talk about different topics of life.</p>\n<p>Mach mit bei unseren Treffen zum Deutsch-Englischen Sprachaustausch im Südwesten von Berlin (hauptsächlich zwischen Schöneberg und Steglitz). Diese Gruppe richtet sich an alle, die Deutsch oder Englisch lernen wollen - egal auf welchem Level du bist oder was deine Muttersprache ist.&nbsp;</p>\n<p>Wir treffen uns an möglichst ruhigen Orten, so dass wir so viel wie möglich voneinander lernen können.&nbsp;Wir bieten keine Lektionen an. Wir sitzen einfach in entspannter Atmosphäre zusammen, essen und/oder trinken etwas und sprechen über verschiedene Themen des Lebens.</p>",
+        "created": 1484915064000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 4048,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 222076064,
+            "name": "Petra U-F",
+            "bio": "",
+            "photo": {
+                "id": 264301095,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/4/4/7/highres_264301095.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/4/4/7/member_264301095.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/4/4/7/thumb_264301095.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Members",
+        "key_photo": {
+            "id": 473699461,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/e/8/4/5/highres_473699461.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/e/8/4/5/600_473699461.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/e/8/4/5/thumb_473699461.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 16,
+            "name": "Language & Ethnic Identity",
+            "shortname": "language",
+            "sort_name": "Language & Ethnic Identity"
+        },
+        "meta_category": {
+            "id": 212,
+            "shortname": "language",
+            "name": "Language & Culture",
+            "sort_name": "Language & Culture",
+            "photo": {
+                "id": 450131939,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                16
+            ]
+        }
+    },
+    "10": {
+        "score": 0.9975411891937256,
+        "id": 4927432,
+        "name": "Culti Group Berlin: New in Town, Just Fun, Languages, More",
+        "status": "active",
+        "link": "https://www.meetup.com/terpBL/",
+        "urlname": "terpBL",
+        "description": "<p>-&nbsp;<b> <a href=\"http://www.meetup.com/cultiBL\">Culti Group Berlin</a></b> - </p>\n<p>The Culti Group Berlin exists for the sole purpose of casual get-togethers in a friendly environment where everyone feels welcome. The Meetups are all about meeting people in a laid back and social atmosphere.</p>\n<p>The current meetups&nbsp;are about getting the hang of German <i>and</i>&nbsp;are about a Karoake meetup once a month and are about this great weekly \"Boulder and socialise\" meetup. Also we take pride in making the sunday a part of the weekend in Berlin. Because, yes, Berlin is the place where the world connects!</p>\n<p><i>Does this meetup sound like something for you? If so: please don't hesitate.... Just sign&nbsp;up!</i></p>\n<br>\n<br>",
+        "created": 1347633204000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 12595,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 99456732,
+            "name": "Arend Jan Hee",
+            "bio": "",
+            "photo": {
+                "id": 169361382,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/a/1/a/6/highres_169361382.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/a/1/a/6/member_169361382.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/a/1/a/6/thumb_169361382.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Friends of Culti Group Berlin",
+        "group_photo": {
+            "id": 158707572,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/1/d/9/4/highres_158707572.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/1/d/9/4/600_158707572.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/1/d/9/4/thumb_158707572.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 455866930,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/b/7/5/2/highres_455866930.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/b/7/5/2/600_455866930.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/b/7/5/2/thumb_455866930.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "next_event": {
+            "id": "hhcjhryzpbjb",
+            "name": "Let's speak German (B2-C2) @ Caras Café [Potsdamer/Leipziger Platz]",
+            "yes_rsvp_count": 9,
+            "time": 1573059300000,
+            "utc_offset": 3600000
+        },
+        "category": {
+            "id": 16,
+            "name": "Language & Ethnic Identity",
+            "shortname": "language",
+            "sort_name": "Language & Ethnic Identity"
+        },
+        "meta_category": {
+            "id": 212,
+            "shortname": "language",
+            "name": "Language & Culture",
+            "sort_name": "Language & Culture",
+            "photo": {
+                "id": 450131939,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                16
+            ]
+        }
+    },
+    "11": {
+        "score": 0.9952647686004639,
+        "id": 27576812,
+        "name": "Grakn Berlin Engineers",
+        "status": "active",
+        "link": "https://www.meetup.com/grakn-berlin/",
+        "urlname": "grakn-berlin",
+        "description": "<p>Intelligent/Cognitive Systems consume data that are too complex for current databases to handle. Grakn is a hyper-relational database that allows you to perform knowledge engineering to manage this complexity. Effectively, Grakn provides a Knowledge Base (aka. Knowledge Graph) as the core foundation of intelligent systems.&nbsp;</p>\n<p>Grakn provides an intelligent query language, Graql: Grakn’s reasoning (through OLTP) and analytics (through OLAP) query language, which is a much higher-level abstraction over traditional query languages. This allows intelligent systems to benefit from an intuitive language the provides&nbsp;an expressive schema for knowledge modelling, reasoning transactions for real-time inference, distributed algorithms for large-scale analytics, and optimisation of query execution. Grakn also provides the logical integrity of SQL, the scale of relationships of Graph databases, and the horizontal scalability of NoSQL. &nbsp;</p>\n<p>In this community, we discuss the underlying technology and applications of the Grakn hyper-relational database. We will also discuss the techniques of a new software engineering principle, Knowledge-Driven Development, that Grakn now enables. The group is for engineers to demonstrate their solutions and share the lessons they learnt, as well as business leaders to learn applications of Grakn in their business.</p>",
+        "created": 1519066902000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 542,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 155706512,
+            "name": "Haikal Pribadi",
+            "bio": "Computer Scientist, Founder and CEO of Grakn Labs",
+            "photo": {
+                "id": 272853175,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/8/1/9/7/highres_272853175.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/8/1/9/7/member_272853175.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/8/1/9/7/thumb_272853175.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Engineers",
+        "group_photo": {
+            "id": 468610774,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/2/a/1/6/highres_468610774.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/2/a/1/6/600_468610774.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/2/a/1/6/thumb_468610774.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 468663126,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/c/3/6/highres_468663126.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/c/3/6/600_468663126.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/c/3/6/thumb_468663126.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    },
+    "12": {
+        "score": 0.9665484428405762,
+        "id": 12863292,
+        "name": "Wizard Amigos",
+        "status": "active",
+        "link": "https://www.meetup.com/WizardAmigos/",
+        "urlname": "WizardAmigos",
+        "description": "<p>Regular events for nomadic developers.&nbsp;<span>Bring your computer with you, we are learning and working here!&nbsp;</span></p>\n<p><b> <br>Learn and upgrade your P2P and&nbsp; Javascript skills with Wizard Amigos</b>&nbsp;</p>\n<p> <br></p>\n<p><b>To get started</b></p>\n<p><a href=\"https://medium.com/@ninabreznik/learn-to-code-best-practises-6fa7c2c2f3c0\">https://medium.com/@ninabreznik/learn-to-code-best-practises-6fa7c2c2f3c0</a></p>\n<br>\n<br>\n<p><b>Support chat</b></p>\n<p><a href=\"https://gitter.im/wizardamigosinstitute/program\">https://gitter.im/wizardamigosinstitute/program</a></p>\n<br>\n<br>\n<p><b>Social media:</b></p>\n<p>FB&nbsp;</p>\n<p><a href=\"https://www.facebook.com/groups/369246343421803/\">https://www.facebook.com/groups/369246343421803/</a></p>\n<br>\n<p>Twitter</p>\n<p><a href=\"https://twitter.com/wizardamigos\">https://twitter.com/wizardamigos</a></p>\n<br>\n<br>\n<p><b>Meetups/Events:</b></p>\n<p><a href=\"https://www.meetup.com/WizardAmigos/\">https://www.meetup.com/WizardAmigos/</a></p>\n<p><br></p>\n<p><b>About&nbsp;</b></p>\n<p><a href=\"http://www.wizardamigos.com/\">http://www.wizardamigos.com</a></p>\n<p><a href=\"http://wizardamigos.com/workshop_app/\"></a></p>\n<p><span> <br></span></p>\n<p><b>Create a profile:</b>&nbsp;</p>\n<p><a href=\"http://codingamigos.wizardamigos.com/\">Wizard and Coding amigos profiles</a></p>\n<p><a>&nbsp;</a> <br></p>",
+        "created": 1392307126000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 2004,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 11656247,
+            "name": "Nina Breznik",
+            "bio": "Free JS code camps http://app.wizardamigos.com  Community builder @codingamigos Hacktivist @refugeeswork Client stuff http://fairydust.agency",
+            "photo": {
+                "id": 281087046,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/b/7/c/6/highres_281087046.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/b/7/c/6/member_281087046.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/b/7/c/6/thumb_281087046.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Hacktivists",
+        "group_photo": {
+            "id": 468247439,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/1/d/0/f/highres_468247439.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/1/d/0/f/600_468247439.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/1/d/0/f/thumb_468247439.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 458899234,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/4/b/2/2/highres_458899234.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/4/b/2/2/600_458899234.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/4/b/2/2/thumb_458899234.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "next_event": {
+            "id": "hhxnkryzpbgb",
+            "name": "Free code camp in Thailand",
+            "yes_rsvp_count": 5,
+            "time": 1572872400000,
+            "utc_offset": 3600000
+        },
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    },
+    "13": {
+        "score": 0.9949700236320496,
+        "id": 32473515,
+        "name": "Berlin Talent Network",
+        "status": "active",
+        "link": "https://www.meetup.com/Berlin-Talent-Network/",
+        "urlname": "Berlin-Talent-Network",
+        "description": "<p>We are on a mission to create Berlin's most exciting and engaging Talent Community for Tech enthusiasts.&nbsp;</p>\n<p>With regular MeetUps, we bring together the best and most talented Software Developers, Testers, CTO's, Product Managers, Architects and experts in a relaxed and informal setting.&nbsp;</p>\n<p>At our MeetUps you will find:&nbsp;</p>\n<p>• Informal networking with the most talented and interesting tech guys in Berlin!&nbsp;</p>\n<p>• Expert guest speakers&nbsp; <br></p>\n<p>• Access and first refusal to the hottest Permanent and Freelance Tech jobs in Berlin.<br></p>\n<p>• WhatsApp Broadcast List groups to hear about the latest jobs and Tech news in Berlin.&nbsp;<br></p>\n<p>•&nbsp;Free drinks and food!</p>\n<p>• Competitions and FREE goodies :) <br></p>\n<p>Our Community is the most engaged in Berlin and we look forward to welcoming YOU into it!</p>",
+        "created": 1564113653000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 268,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 285988836,
+            "name": "John Lennon",
+            "bio": ""
+        },
+        "who": "Members",
+        "key_photo": {
+            "id": 483585467,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/b/1/9/b/highres_483585467.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/b/1/9/b/600_483585467.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/b/1/9/b/thumb_483585467.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 2,
+            "name": "Career & Business",
+            "shortname": "career-business",
+            "sort_name": "Career & Business"
+        },
+        "meta_category": {
+            "id": 522,
+            "shortname": "career-business",
+            "name": "Career & Business",
+            "sort_name": "Career & Business",
+            "photo": {
+                "id": 450131927,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                2
+            ]
+        }
+    },
+    "14": {
+        "score": 0.9712241888046265,
+        "id": 20279519,
+        "name": "Sprachtreff - Fun & Languages",
+        "status": "active",
+        "link": "https://www.meetup.com/Sprachtreff-Fun-Languages/",
+        "urlname": "Sprachtreff-Fun-Languages",
+        "description": "<p>Join us for fun conversations in German and English in central Berlin.</p>\n<p>We meet in central Berlin to socialize and have fun together. Internationals and Germans, you are all welcome to join our conversations and exchange your Berlin stories. Meet other fun and interesting people in the same situation as you are in right now! Socialize and exchange ways of learning another language. Speak in you native-language or practice something new. This is the best place to find your new tandem-partner!</p>\n<p>Come and meet us - participation is free of charge. If you are hungry or thursty you can, but don't have to, buy some tasty food or drinks at your expense. Bring your good mood and a smile on your face!</p>",
+        "created": 1470333288000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 8571,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 210367641,
+            "name": "SprachinstitutBerlin",
+            "bio": "",
+            "photo": {
+                "id": 258922791,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/5/9/0/7/highres_258922791.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/5/9/0/7/member_258922791.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/5/9/0/7/thumb_258922791.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Multisprachler",
+        "group_photo": {
+            "id": 463556201,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/d/b/8/9/highres_463556201.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/d/b/8/9/600_463556201.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/d/b/8/9/thumb_463556201.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 473052938,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/3/2/8/a/highres_473052938.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/3/2/8/a/600_473052938.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/3/2/8/a/thumb_473052938.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 16,
+            "name": "Language & Ethnic Identity",
+            "shortname": "language",
+            "sort_name": "Language & Ethnic Identity"
+        },
+        "meta_category": {
+            "id": 212,
+            "shortname": "language",
+            "name": "Language & Culture",
+            "sort_name": "Language & Culture",
+            "photo": {
+                "id": 450131939,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                16
+            ]
+        }
+    },
+    "15": {
+        "score": 0.988798201084137,
+        "id": 27724348,
+        "name": "Thinkers & Drinkers International (DE/Berlin)",
+        "status": "active",
+        "link": "https://www.meetup.com/ThinkersDrinkersInternationalBerlin/",
+        "urlname": "ThinkersDrinkersInternationalBerlin",
+        "description": "<p>Building on the success of our 5,000+ members in San Antonio Texas and Stuttgart, Germany, we are a group of locals, internationals and visitors alike who aren't afraid of thinking while drinking.</p>\n<p>We are dedicated to the following:</p>\n<p>Open Communication <br>In Person Social Networking <br>Adventures <br>Community Involvement <br>Good Times with Great People</p>\n<p>We are open to anyone with an open mind, drive for new ideas and of course a friendly liver.</p>\n<p>We are currently offering this meetup in English only, but will soon being offering in Deutch as well.</p>\n<p>//Ian &amp; Co.</p>\n<p>**********Reviews of our group:</p>\n<p>* I was new to San Antonio and eager to find a fun, interesting crowd. Enter T&amp;D under the inspired leadership and direction of one Ian C. Perry. It's been a 18 months of great conversations, killer hangs and hilarious misadventures. And I met my best friends and boyfriend through the meetup! These are my kinda people. -- Sherry, 38, Tennessee</p>\n<p>* Thinkers n Drinkers has been a fascinating experience for me. It is a discussion group with a wide range of topics and a diverse group of people that NEVER got heated. Even though the topics can be controversial and polarizing, no one was ever shouted down or became visible angry, only diplomatic and personal conversations. Thinkers n Drinkers is a safe space where one can speak and share freely. Ian is a fantastic facilitator that sets a space that is open and inclusive. All perspectives are welcomed, encouraged and nurtured. The community created through Thinkers n Drinkers lives on outside of the weekly meetings through friendships and adventure outings. Thanx Ian!!!! -- Alexei, 37, Texas</p>\n<p>* Drinkers and thinkers is a place that challenges your thinking and to learn about perspective. I always loved being intrigued by other people's opinions and learn more about the topic of that night. I am more of a listener than a talker but it did make me more confident in speaking and not being judged. Its a great group that I got to experience a few times. -- Juanita, 19, Colorado * The best part about this group is getting to meet really cool people. You get share and express your ideas and opinions on different topics of life and also welcome in new ideas you may never have thought about before. Plus the drinking part is always fun. -- Lacey, 26, Florida</p>\n<p>* It all started a couple years ago with a discussion on what defined happiness. Since being hooked by that enlightenment, I have enjoyed many discussions (with beer in hand) over subjects ranging from relationships and religion to success and money. Sometimes broad like \"What is success\". Sometimes specific like \"Is monogamy necessary in a relationship\". I always thought the taboo topic of politics would have made things interesting for the diverse/open minds in the group, but maybe it would have led to unfriending on Facebook, so better left unspoken and we all stay Thinkers, Drinkers and Friends. -- Joe, 63, Texas</p>\n<p>* Moving across the country is like any big change in life. Finding yourself in new surroundings and meeting new people is simple enough however, most often you find yourself having superficial conversations and making light acquaintances. Thinkers and Drinkers was a breath of fresh air. I found myself surrounded by people who like me wanted to have meaningful conversations, people who wanted to delve deeper than the normal light chat we all find in a bar. The group breaks down the barriers by combining fun, social activities like meeting in bars, camping, outdoor activities, coupled with honest exploration of a variety of topics. <br>I would highly recommend this to anyone searching for good conversations and great friends. -- Jason, 38, Connecticut</p>\n<p>* Diverse, witty, brain stimulating, and headed by the most awesome Meetup organizer. I miss it tremendously and might move to Stuttgart. Wait no more and join the fun. -- Ikram, 35, Morocco</p>\n<p>* A friend invited me to a Thinkers and Drinkers meet-up. I don't drink, so I was a bit doubtful. I am SO glad I went! The conversation was wonderful, and the people even more so. I've since gone on multiple camping trips and other various T and D events, made new friends, connections, and a slew of inside jokes. The events are always well-organized, and the founder, Ian, is a total hoot. You are and always will be welcome, and he makes sure you know it :) -- Kara, 29, New York</p>\n<p>Connect:</p>\n<p>Instagram: @ThinkersDrinkersInternational</p>\n<p>Facebook: <a href=\"https://www.facebook.com/thinkersdrinkersinternational/\" class=\"linkified\">https://www.facebook.com/thinkersdrinkersinternational/</a></p>\n<p>Podcast: <a href=\"https://www.spreaker.com/user/thinkersdrinkersinternational\" class=\"linkified\">https://www.spreaker.com/user/thinkersdrinkersinternational</a></p>\n<p>Email: ThinkersDrinkersInternational@gmail.com</p>",
+        "created": 1520195478000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 988,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 89888612,
+            "name": "Ian C. Perry",
+            "bio": "",
+            "photo": {
+                "id": 260156902,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/d/e/4/6/highres_260156902.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/d/e/4/6/member_260156902.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/d/e/4/6/thumb_260156902.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Smart | Social | Real People",
+        "group_photo": {
+            "id": 475761195,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/5/2/c/b/highres_475761195.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/5/2/c/b/600_475761195.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/5/2/c/b/thumb_475761195.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 475761196,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/5/2/c/c/highres_475761196.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/5/2/c/c/600_475761196.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/5/2/c/c/thumb_475761196.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "next_event": {
+            "id": "266201597",
+            "name": "Roundtable Discussions | This Week's Topic: Procrastination",
+            "yes_rsvp_count": 2,
+            "time": 1573149600000,
+            "utc_offset": 3600000
+        },
+        "category": {
+            "id": 31,
+            "name": "Socializing",
+            "shortname": "socializing",
+            "sort_name": "Socializing"
+        },
+        "meta_category": {
+            "id": 272,
+            "shortname": "social",
+            "name": "Social",
+            "sort_name": "Social",
+            "photo": {
+                "id": 450131947,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/b/highres_450131947.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/b/600_450131947.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/b/thumb_450131947.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                31
+            ]
+        }
+    },
+    "16": {
+        "score": 0.9624722599983215,
+        "id": 19769873,
+        "name": "Ultimate Frisbee and Beer in Wedding",
+        "status": "active",
+        "link": "https://www.meetup.com/ultimate-wedding/",
+        "urlname": "ultimate-wedding",
+        "description": "<p>we meet and play a relaxed game of ultimate every week in Volkspark Rehberge depending on the weather</p>\n<p>our games focus on having great team play, where the teams work together advance the disk down the field. It's more important to work well together as a team than have a few star players get a point with lucky shots. For this reason, players of all skill levels (especially those who have never played) are welcome to join</p>\n<p>afterwards we generally go and grab a beer at Eschenbräu or take a dip in the Plötzensee</p>\n<p>we meet in this big grassy area, it's a short bike ride from the subway stop Rehberge on the U6 or Amrumerstrasse on the U9. It can be a bit tricky to find the first time, so take a look at this fancy map </p>\n<p>&nbsp; <br></p>\n<p><img src=\"https://secure.meetupstatic.com/photos/event/2/8/8/f/600_451930383.jpeg\"></p>",
+        "created": 1459204428000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 1002,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 182993536,
+            "name": "Calvin",
+            "bio": "I've gotten younger and gained some weight since this picture was taken",
+            "photo": {
+                "id": 242332544,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/c/d/4/0/highres_242332544.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/c/d/4/0/member_242332544.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/c/d/4/0/thumb_242332544.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Ultimaters",
+        "group_photo": {
+            "id": 459505261,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/6/2/a/d/highres_459505261.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/6/2/a/d/600_459505261.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/6/2/a/d/thumb_459505261.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 459505212,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/6/2/7/c/highres_459505212.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/6/2/7/c/600_459505212.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/6/2/7/c/thumb_459505212.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 32,
+            "name": "Sports & Recreation",
+            "shortname": "sports-recreation",
+            "sort_name": "Sports & Recreation"
+        },
+        "meta_category": {
+            "id": 282,
+            "shortname": "sports-fitness",
+            "name": "Sports & Fitness",
+            "sort_name": "Sports & Fitness",
+            "photo": {
+                "id": 450131948,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/c/highres_450131948.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/c/600_450131948.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/c/thumb_450131948.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                9,
+                32
+            ]
+        }
+    },
+    "17": {
+        "score": 0.9568231105804443,
+        "id": 14360822,
+        "name": "Berlin User Experience Designers",
+        "status": "active",
+        "link": "https://www.meetup.com/berlinuxd/",
+        "urlname": "berlinuxd",
+        "description": "<p>Berlin UXD is a group for user experience design professionals, who want to meet other colleagues and get new input for their daily work. At every Meetup, we talk about a new aspect of UX design. We think UX design holistically and do not only touch more central topics such as interaction design or testing, but also related fields like brand identity, storytelling, prototyping or service design.</p>",
+        "created": 1399666799000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 3195,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 22430781,
+            "name": "Alex Shirazi",
+            "bio": "Due to the volume of messages we receive on the Meetup.com platform, we are unfortunately not able to respond to everyone. If you would like to get in touch, please contact us through www.globaluxd.com. Thank you!",
+            "photo": {
+                "id": 197153942,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/d/2/b/6/highres_197153942.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/d/2/b/6/member_197153942.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/d/2/b/6/thumb_197153942.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "UX Designers",
+        "group_photo": {
+            "id": 459237307,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/d/f/d/b/highres_459237307.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/d/f/d/b/600_459237307.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/d/f/d/b/thumb_459237307.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 454963142,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/8/8/6/highres_454963142.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/8/8/6/600_454963142.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/8/8/6/thumb_454963142.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    },
+    "18": {
+        "score": 0.9988901019096375,
+        "id": 18962793,
+        "name": "NewStore TechTalks",
+        "status": "active",
+        "link": "https://www.meetup.com/NewStore/",
+        "urlname": "NewStore",
+        "description": "<p><span>This is a group for anyone interested in new technologies, cloud computing, ecommerce, networking, etc. We invite developers, devops, architects, revolutionaries, and visionaries to join our sessions to learn and discuss. You can expect&nbsp;</span><span>interesting</span><span>&nbsp;speakers, great crowd, food, &amp; drinks. All free of charge! &nbsp;</span> <br></p>\n<p>About NewStore</p>\n<p>The NewStore mobile retail platform empowers brands to deliver an extraordinary end-to-end shopping experience for consumers. Built entirely from a mobile perspective, it integrates with existing ecommerce platforms such as Demandware, SAP Hybris, Oracle ATG, and Magento. NewStore raises the omnichannel bar with one-touch purchase, scalable clienteling, and on-demand delivery — all optimized for the small screen. Founded by Stephan Schambach, creator of Demandware, NewStore boosts conversion, promotes engagement, unifies online and offline, and modernizes fulfillment. NewStore is headquartered in Boston. For more information, visit <a href=\"http://www.newstore.com\">www.newstore.com</a>.</p>\n<p>Twitter:&nbsp;<a href=\"https://twitter.com/techtalks_NS\">@techtalks_</a>NeS</p>\n<p>You Tube:&nbsp;<a href=\"https://www.youtube.com/channel/UC7CUgivJP7KGLSuJrhQ2Exw\">#NewTechBerlin</a></p>\n<p>LinkedIn:&nbsp;<a href=\"https://www.linkedin.com/groups/8438652\">NewStore TechTalks</a></p>\n<br>\n<br>\n<br>",
+        "created": 1443081255000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 1332,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 43669902,
+            "name": "Robin Pokorny",
+            "bio": "Software Engineer at NewStore.\n\nMy homepage: robinpokorny.com",
+            "photo": {
+                "id": 274152509,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/3/0/d/d/highres_274152509.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/3/0/d/d/member_274152509.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/3/0/d/d/thumb_274152509.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "NewStorians",
+        "group_photo": {
+            "id": 446236281,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/3/f/9/9/highres_446236281.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/3/f/9/9/600_446236281.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/3/f/9/9/thumb_446236281.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 447952150,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/c/b/b/6/highres_447952150.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/c/b/b/6/600_447952150.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/c/b/b/6/thumb_447952150.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "next_event": {
+            "id": "266012989",
+            "name": "TechTalks on 1. Product Development Flow and 2. Open & Inner Source",
+            "yes_rsvp_count": 30,
+            "time": 1574271000000,
+            "utc_offset": 3600000
+        },
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    },
+    "19": {
+        "score": 0.9995980858802795,
+        "id": 17670252,
+        "name": "Rust Berlin",
+        "status": "active",
+        "link": "https://www.meetup.com/Rust-Berlin/",
+        "urlname": "Rust-Berlin",
+        "description": "<p>We are interested in the emerging systems language Rust, from Mozilla. Rusties of all skill levels are welcome, or even if you are just interested in the language. We want to get together to learn Rust and work on Rust projects of all kinds.</p>\n<p> <br> We have a code of conduct, requiring you to be awesome to each other: <a href=\"http://rubyberlin.github.io/code-of-conduct/\">http://rubyberlin.git...</a></p>",
+        "created": 1413492667000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 1457,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 137486432,
+            "name": "Johann Hofmann",
+            "bio": "",
+            "photo": {
+                "id": 237913182,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/3/3/7/e/highres_237913182.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/3/3/7/e/member_237913182.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/3/3/7/e/thumb_237913182.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Rusties",
+        "group_photo": {
+            "id": 426561742,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/5/4/e/e/highres_426561742.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/5/4/e/e/600_426561742.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/5/4/e/e/thumb_426561742.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 426561742,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/5/4/e/e/highres_426561742.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/5/4/e/e/600_426561742.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/5/4/e/e/thumb_426561742.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    },
+    "20": {
+        "score": 0.9667115807533264,
+        "id": 32555853,
+        "name": "Berlin Secure Cloud Computing",
+        "status": "active",
+        "link": "https://www.meetup.com/Berlin-Cloud-Security-Computing/",
+        "urlname": "Berlin-Cloud-Security-Computing",
+        "description": "<p>Dies ist eine Gruppe für alle, die sich mit der Sicherheit im Cloud Computing sowie innovativen Lösungen für die Sicherheitszertifzierung von Cloud Infrastrukturen beschäftigen.</p>",
+        "created": 1565170308000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 54,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 287002966,
+            "name": "Jürgen Großmann",
+            "bio": "",
+            "photo": {
+                "id": 291119601,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/e/8/d/1/highres_291119601.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/e/8/d/1/member_291119601.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/e/8/d/1/thumb_291119601.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Mitglieder",
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    },
+    "21": {
+        "score": 0.9710744023323059,
+        "id": 17292462,
+        "name": "Berlin LGBT Social Club",
+        "status": "active",
+        "link": "https://www.meetup.com/Berlin-LGBT-social-club-meetup/",
+        "urlname": "Berlin-LGBT-social-club-meetup",
+        "description": "<p>The purpose of this group is to provide an opportunity for LGBT+ folks to get together, without any specific goal, except to have fun and socialise. <br></p>\n<p>We welcome everyone! Gay, lesbian, queer, Bi, transgender, gay-friendly, etc. are all very much welcome.</p>\n<p>We hold a regular fortnightly Stammtisch which is an opportunity for everyone to meet in a friendly, open social environment. There's no agenda - just come and enjoy meeting friends!</p>\n<p>We also hold varied events, which are posted periodically, which we try to cater to different interests, such as outdoor walks/hikes/bike rides, cultural events, dinners, picnics, etc.<br></p>\n<p>If you'd like to suggest an event or get together, or if you'd like to help organise meet ups, please let us know. <br></p>\n<p>&nbsp; <br> </p>",
+        "created": 1412015999000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 4215,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 183851938,
+            "name": "Kristian",
+            "bio": "",
+            "photo": {
+                "id": 246064138,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/1/0/2/a/highres_246064138.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/1/0/2/a/member_246064138.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/1/0/2/a/thumb_246064138.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Members",
+        "key_photo": {
+            "id": 438527474,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/b/9/7/2/highres_438527474.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/b/9/7/2/600_438527474.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/b/9/7/2/thumb_438527474.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "next_event": {
+            "id": "hbqtbryzpbjb",
+            "name": "Stammtisch: Drinks in Bar/Café Marienhof",
+            "yes_rsvp_count": 30,
+            "time": 1573066800000,
+            "utc_offset": 3600000
+        },
+        "category": {
+            "id": 10,
+            "name": "Food & Drink",
+            "shortname": "food-drink",
+            "sort_name": "Food & Drink"
+        },
+        "meta_category": {
+            "id": 162,
+            "shortname": "food",
+            "name": "Food & Drink",
+            "sort_name": "Food & Drink",
+            "photo": {
+                "id": 450131937,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/1/highres_450131937.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/1/600_450131937.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/1/thumb_450131937.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                10
+            ]
+        }
+    },
+    "22": {
+        "score": 0.9972700476646423,
+        "id": 3857492,
+        "name": "Berlin DevOps",
+        "status": "active",
+        "link": "https://www.meetup.com/blndevops/",
+        "urlname": "blndevops",
+        "description": "<p>DevOps is a movement that mainly aims for a better cooperation between operations and development and every part of your company.</p>\n<p>You can follow us on twitter <a href=\"https://twitter.com/blndevops\">@blndevops</a> or drop us a mail <a href=\"mailto:blndevops-organizers@googlegroups.com\">blndevops-organizers@googlegroups.com</a></p>\n<p>Wikipedia has also a definition for DevOps: “… It relates to the emerging understanding of the interdependence of development and operations in meeting a business’ goal to producing timely software products and services.”. To solve this interdependence we need to cooperate to produce software, which can be good managed and operated. But on the other hand, that means that good software relays upon good operation practices.</p>\n<p>The group aims to bring Berlin’s system administrators, system engineers, system developers, web operators, software engineers, test engineers, software architects and alike together and create a platform for information and knowledge exchange.</p>\n<p>We concentrate on the following topics: * Achieving better results through cooperation * Operations of IT Systems * “Infrastructure as code” and system automation. * Monitoring systems * Agile methods * Continuous Integration and Deployment * and many more ...</p>",
+        "created": 1336932953000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 3036,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 67417482,
+            "name": "Oliver Seemann",
+            "bio": "",
+            "photo": {
+                "id": 246601896,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/7/6/8/highres_246601896.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/7/6/8/member_246601896.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/7/6/8/thumb_246601896.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Members",
+        "group_photo": {
+            "id": 120258462,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/4/8/1/e/highres_120258462.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/4/8/1/e/600_120258462.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/4/8/1/e/thumb_120258462.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 472817511,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/4/4/6/7/highres_472817511.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/4/4/6/7/600_472817511.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/4/4/6/7/thumb_472817511.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    },
+    "23": {
+        "score": 0.9965303540229797,
+        "id": 20288976,
+        "name": "Azure Meetup Berlin",
+        "status": "active",
+        "link": "https://www.meetup.com/Berlin-Microsoft-Azure-Meetup/",
+        "urlname": "Berlin-Microsoft-Azure-Meetup",
+        "description": "<p>Welcome to Microsoft Azure Meetup!,</p>\n<p>This meetup is created for Everyone, who is interested and/or working with Microsoft Azure technologies e.g.:</p>\n<p><span>• Machine Learning / Deep Learning / Analytics&nbsp; <br></span><span>• Data Scientist <br></span><span>• Apps Dev&nbsp;&nbsp;<br></span><span>• Big data, DWH<br></span><span>• Hadoop&nbsp;<br></span><span>•&nbsp;IoT&nbsp;<br></span><span>• Cloud Computing&nbsp;&nbsp;<br></span><span>• You name it ....&nbsp;</span></p>\n<p><span>We focus on technologies based on the Microsoft Azure platform.</span> <br></p>\n<p>We hope to develop a strong community in Berlin that meets face to face and has a deep influence on Microsoft Azure ecosystem.</p>\n<p>Find out about Azure Services you are interested in and schedule our meetup!&nbsp;</p>\n<p><span>Join us to empower every person and every organization on the planet to achieve more!</span> <br></p>\n<p> <br></p>\n<p> <br></p>",
+        "created": 1470580236000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 1278,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 204726442,
+            "name": "Tyrone Guiamo",
+            "bio": "",
+            "photo": {
+                "id": 276406595,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/b/6/0/3/highres_276406595.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/b/6/0/3/member_276406595.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/b/6/0/3/thumb_276406595.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Members",
+        "group_photo": {
+            "id": 460177325,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/9/1/c/d/highres_460177325.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/9/1/c/d/600_460177325.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/9/1/c/d/thumb_460177325.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 460177325,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/9/1/c/d/highres_460177325.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/9/1/c/d/600_460177325.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/9/1/c/d/thumb_460177325.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        },
+        "pro_network": {
+            "name": "Azure Tech Communities",
+            "urlname": "azuretechcommunities",
+            "number_of_groups": 77,
+            "network_url": "https://www.meetup.com/pro/azuretechcommunities/"
+        }
+    },
+    "24": {
+        "score": 0.9947770833969116,
+        "id": 18373067,
+        "name": "Advanced Machine Learning Study Group",
+        "status": "active",
+        "link": "https://www.meetup.com/Advanced-Machine-Learning-Study-Group/",
+        "urlname": "Advanced-Machine-Learning-Study-Group",
+        "description": "<p>Our goal is to bring academics and practitioners together to study theoretical aspects of machine learning and the mathematical and statistical justification.&nbsp; <br></p>\n<p>Our format during the meetup is to read through books, papers, articles etc. silently and after a few pages collectively discuss the material. We also do exercises and proofs together, at first silently everyone alone and then at the whiteboard together. It's all about gaining thorough understanding of the underlying theory to ML: Active participation is highly encouraged, including asking questions that deepen your understanding. There is no homework, but if you join in the middle of a chapter it's advisable that you get familar with the previous pages. <br></p>\n<p>Although we are in the middle of a book, you can join at any time, as the chapters are very independent. The only requirement to succesfully do this is that you have a background in machine learning theory. A common way to achieve this is to having attended a course on Machine Learning. <br></p>",
+        "created": 1422083224000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "approval",
+        "visibility": "public_limited",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 1194,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 15268761,
+            "name": "Marcel Ackermann",
+            "bio": "Interested in an advanced machine learning study group? Join here:  http://www.meetup.com/Advanced-Machine-Learning-Study-Group/",
+            "photo": {
+                "id": 257431539,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/7/b/3/3/highres_257431539.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/7/b/3/3/member_257431539.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/7/b/3/3/thumb_257431539.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Machine Learners",
+        "group_photo": {
+            "id": 460016032,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/d/a/e/0/highres_460016032.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/d/a/e/0/600_460016032.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/d/a/e/0/thumb_460016032.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 460016032,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/d/a/e/0/highres_460016032.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/d/a/e/0/600_460016032.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/d/a/e/0/thumb_460016032.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "next_event": {
+            "id": "ltzxsqyzpbhb",
+            "name": "Deep Reinforcement Learning – 13: Learning Policies by Imitating Other Policies",
+            "yes_rsvp_count": 4,
+            "time": 1572976800000,
+            "utc_offset": 3600000
+        },
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    },
+    "25": {
+        "score": 0.9610573053359985,
+        "id": 30863332,
+        "name": "Sports events Berlin.",
+        "status": "active",
+        "link": "https://www.meetup.com/Sports-events-Berlin/",
+        "urlname": "Sports-events-Berlin",
+        "description": "<p>Group of the Spanish proyect “Sports Events Berlin”. Every week we meet for sports activities indoor or outdoor (this last option only for brave people). &lt;br&gt;</p> \n<p>Grupo del proyecto español “Sports Events Berlín”. Cada semana hacemos quedadas deportivas, interior y exterior, (esta última opción solo para valientes). &lt;br&gt;</p> \n<p>Búscanos en Facebook! Find us in Facebook!</p>",
+        "created": 1546859811000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 294,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 268983229,
+            "name": "Luis Alcázar Pérez",
+            "bio": "",
+            "photo": {
+                "id": 287253680,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/8/3/9/0/highres_287253680.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/8/3/9/0/member_287253680.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/8/3/9/0/thumb_287253680.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Deportistas",
+        "key_photo": {
+            "id": 485994762,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/d/5/e/a/highres_485994762.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/d/5/e/a/600_485994762.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/d/5/e/a/thumb_485994762.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "next_event": {
+            "id": "265879856",
+            "name": "Networking en español",
+            "yes_rsvp_count": 3,
+            "time": 1572973200000,
+            "utc_offset": 3600000
+        },
+        "category": {
+            "id": 32,
+            "name": "Sports & Recreation",
+            "shortname": "sports-recreation",
+            "sort_name": "Sports & Recreation"
+        },
+        "meta_category": {
+            "id": 282,
+            "shortname": "sports-fitness",
+            "name": "Sports & Fitness",
+            "sort_name": "Sports & Fitness",
+            "photo": {
+                "id": 450131948,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/c/highres_450131948.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/c/600_450131948.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/c/thumb_450131948.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                9,
+                32
+            ]
+        }
+    },
+    "26": {
+        "score": 0.9750732779502869,
+        "id": 18465164,
+        "name": "Saturday Afternoon Coffee and Talk",
+        "status": "active",
+        "link": "https://www.meetup.com/Saturday-Afternoon-Coffee-and-Talk/",
+        "urlname": "Saturday-Afternoon-Coffee-and-Talk",
+        "description": "<p>After a tough week of working, studying and other obligations, everybody is welcome to join us for a get together on saturday afternoon. Reason for Meeting: Realxing, Meeting new poeple and just have a good time! :) Who is welcome?: Every international, Berliner or other germans who like to spend time with open minded poeple!</p>",
+        "created": 1425049495000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 12551,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 184795887,
+            "name": "Kevin",
+            "bio": "As a frequent traveler, I like to always immerse myself in culture and meet new people, and this is a way to give back to my fellow travelers and make new friends",
+            "photo": {
+                "id": 246126489,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/1/9/5/9/highres_246126489.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/1/9/5/9/member_246126489.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/1/9/5/9/thumb_246126489.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Relaxer",
+        "group_photo": {
+            "id": 437414407,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/3/8/4/7/highres_437414407.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/3/8/4/7/600_437414407.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/3/8/4/7/thumb_437414407.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 437459324,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/e/7/b/c/highres_437459324.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/e/7/b/c/600_437459324.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/e/7/b/c/thumb_437459324.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "next_event": {
+            "id": "mxczhryzpbmb",
+            "name": "Saturday Afternoon Coffee and Talk",
+            "yes_rsvp_count": 5,
+            "time": 1573308000000,
+            "utc_offset": 3600000
+        },
+        "category": {
+            "id": 16,
+            "name": "Language & Ethnic Identity",
+            "shortname": "language",
+            "sort_name": "Language & Ethnic Identity"
+        },
+        "meta_category": {
+            "id": 212,
+            "shortname": "language",
+            "name": "Language & Culture",
+            "sort_name": "Language & Culture",
+            "photo": {
+                "id": 450131939,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                16
+            ]
+        }
+    },
+    "27": {
+        "score": 0.9763096570968628,
+        "id": 18643530,
+        "name": "B2B Berlin",
+        "status": "active",
+        "link": "https://www.meetup.com/b2b-berlin/",
+        "urlname": "b2b-berlin",
+        "description": "<p>B2B Berlin invites startup founders, technology enthusiasts and entrepreneurs to share their experience in B2B Tech environment and showcase some of the coolest technology on the market.</p>\n<p><span>Our meetings will consist of featured speakers, panel discussions, product demos, and networking with like-minded people.</span></p>\n<p><span>Oh and did we mention free beer :-)</span></p>\n<br>",
+        "created": 1433253178000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 6051,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 160265252,
+            "name": "Greg Greenberger",
+            "bio": "I help B2B tech companies find new opportunities to organize and scale.",
+            "photo": {
+                "id": 260734568,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/8/7/0/8/highres_260734568.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/8/7/0/8/member_260734568.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/8/7/0/8/thumb_260734568.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "B2B Berliners",
+        "group_photo": {
+            "id": 440363338,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/5/b/2/a/highres_440363338.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/5/b/2/a/600_440363338.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/5/b/2/a/thumb_440363338.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 442216486,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/4/0/6/6/highres_442216486.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/4/0/6/6/600_442216486.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/4/0/6/6/thumb_442216486.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "next_event": {
+            "id": "265063707",
+            "name": "B2B Berlin November 2019",
+            "yes_rsvp_count": 109,
+            "time": 1574964000000,
+            "utc_offset": 3600000
+        },
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    },
+    "28": {
+        "score": 0.9981470108032227,
+        "id": 19812581,
+        "name": "DigitalOcean Berlin",
+        "status": "active",
+        "link": "https://www.meetup.com/DigitalOceanBerlin/",
+        "urlname": "DigitalOceanBerlin",
+        "description": "<p><b>Meet software developers of all skill levels to share resources, learn, and form discussions around cloud and DevOps topics including configuration management, containers, databases, monitoring, virtualization, scalability, performance, and more.</b></p>\n<p><b>This meetup is&nbsp;<i>for</i>&nbsp;Berlin developers,&nbsp;<i>by</i>&nbsp;Berlin developers — get involved by applying to&nbsp;<a href=\"http://do.co/meetuptalk\">speak</a>&nbsp;or&nbsp;<a href=\"http://do.co/newmeetup\">help organize</a>&nbsp;an upcoming meetup.</b></p>\n<p>Join the&nbsp;<a href=\"http://www.digitalocean.com/community\">DigitalOcean Community</a>&nbsp;to learn more, and please read our&nbsp;<a href=\"http://do.co/meetupconduct\">Events Code of Conduct</a>.</p>\n<p><a href=\"http://www.digitalocean.com/\">DigitalOcean&nbsp;</a>is the world’s fastest growing cloud computing platform built for developers. Our mission is simple: we’re passionate about making complex infrastructure simple and delighting our customers with a seamless experience that brings them joy. New users can easily deploy a blazing fast cloud server with an intuitive control panel interface, or on a larger scale with the company's straightforward API.</p>",
+        "created": 1460046378000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 1640,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 202981473,
+            "name": "Sammy the Shark",
+            "bio": "DigitalOcean is simplifying the cloud by providing an infrastructure experience that developers love.\n\nI enjoy showing love to our community, making waves, swimming, floating, and flying.",
+            "photo": {
+                "id": 255491774,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/2/d/f/e/highres_255491774.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/2/d/f/e/member_255491774.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/2/d/f/e/thumb_255491774.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Sharks",
+        "group_photo": {
+            "id": 456152640,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/7/f/8/0/highres_456152640.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/7/f/8/0/600_456152640.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/7/f/8/0/thumb_456152640.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 467165056,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/1/3/c/0/highres_467165056.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/1/3/c/0/600_467165056.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/1/3/c/0/thumb_467165056.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        },
+        "pro_network": {
+            "name": "DigitalOcean",
+            "urlname": "digitalocean",
+            "number_of_groups": 74,
+            "network_url": "https://www.meetup.com/pro/digitalocean/"
+        }
+    },
+    "29": {
+        "score": 0.9896268844604492,
+        "id": 26735498,
+        "name": "Silicon Allee Events",
+        "status": "active",
+        "link": "https://www.meetup.com/Silicon-Allee-Events/",
+        "urlname": "Silicon-Allee-Events",
+        "description": "<p>Welcome to Silicon Allee!</p>\n<p>This is a group for startup and tech enthusiasts in Berlin. Our roots began here over 8 years ago, and since then we have evolved into a key stakeholder in the capital's startup scene. Our campus opened in 2017 and includes office rental, event space and studio apartments for short &amp; medium term rent.&nbsp; We look forward to seeing you at one of our monthly meetups🗣, open events or even on campus at our public cafe &amp; bar!&nbsp;☕&nbsp;🍻</p>\n<p><a href=\"http://www.siliconallee.com/\">Silicon Allee</a><span>&nbsp;began in 2011 as a monthly meet up for startups to connect and share ideas, and has since become synonymous with Berlin's tech ecosystem as its community-driven voice. In 2016, Silicon Allee joined&nbsp;</span><a href=\"http://factory.co/\">Factory</a><span>&nbsp;to build a space in the heart of Berlin for the city's startup community to work, live, connect and grow.&nbsp;🏢 Our campus is currently home to Point Nine Capital, Here, Ocean Protocol, LUKSO and others. Silicon Allee's mission remains unchanged: to be the best place – online and offline – to experience the Berlin tech scene, and to provide Berlin startups with the resources, networks and voice to gain meaningful international exposure.&nbsp;👐</span></p>\n<p><span>#BerlinStartups #Since2011&nbsp;</span></p>",
+        "created": 1511954195000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 3177,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 219791265,
+            "name": "Silicon Allee",
+            "bio": "Since 2011, Silicon Allee has connected Berlin’s tech community with the rest of the world. \nWe have grown to become the embassy to Berlin’s tech ecosystem, welcoming visitors and locals to our campus and Berlin's innovation neighborhood.",
+            "photo": {
+                "id": 284781189,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/5/2/c/5/highres_284781189.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/5/2/c/5/member_284781189.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/5/2/c/5/thumb_284781189.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Members",
+        "key_photo": {
+            "id": 478411168,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/7/9/c/0/highres_478411168.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/7/9/c/0/600_478411168.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/7/9/c/0/thumb_478411168.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "next_event": {
+            "id": "jmwllqyzpbhb",
+            "name": "Silicon Allee Monthly Meetup",
+            "yes_rsvp_count": 48,
+            "time": 1573545600000,
+            "utc_offset": 3600000
+        },
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    },
+    "30": {
+        "score": 0.9982245564460754,
+        "id": 13112352,
+        "name": "Berlin Mozilla Meetup",
+        "status": "active",
+        "link": "https://www.meetup.com/Berlin-Mozilla-Meetup/",
+        "urlname": "Berlin-Mozilla-Meetup",
+        "description": "<p>Interested in Mozilla related topics? Ever wondered how to contribute to Mozilla? Then this group is perfect for you. We will talk and discuss about all Mozilla-related topics!<br>\n\n</p>",
+        "created": 1393628933000,
+        "city": "Berlin",
+        "untranslated_city": "Berlin",
+        "country": "DE",
+        "localized_country_name": "Germany",
+        "localized_location": "Berlin, Germany",
+        "region2": "",
+        "state": "",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 52.52,
+        "lon": 13.38,
+        "members": 1415,
+        "member_pay_fee": false,
+        "organizer": {
+            "id": 80759952,
+            "name": "Michael Kohler",
+            "bio": "",
+            "photo": {
+                "id": 249900232,
+                "highres_link": "https://secure.meetupstatic.com/photos/member/e/8/highres_249900232.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/member/e/8/member_249900232.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/e/8/thumb_249900232.jpeg",
+                "type": "member",
+                "base_url": "https://secure.meetupstatic.com"
+            }
+        },
+        "who": "Mozillians",
+        "group_photo": {
+            "id": 339045042,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/f/f/2/highres_339045042.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/f/f/2/600_339045042.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/f/f/2/thumb_339045042.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 444605481,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/1/5/6/9/highres_444605481.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/1/5/6/9/600_444605481.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/1/5/6/9/thumb_444605481.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "Europe/Berlin",
+        "next_event": {
+            "id": "dwvvkqyzpbkb",
+            "name": "Open Mozilla Night",
+            "yes_rsvp_count": 15,
+            "time": 1573149600000,
+            "utc_offset": 3600000
+        },
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    }
+}
